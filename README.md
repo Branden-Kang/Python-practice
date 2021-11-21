@@ -48,6 +48,8 @@
 * [International Monetary Fund](https://www.imf.org/external/index.htm)
 * [Financial Times Dataset](https://markets.ft.com/data/)
 * [World Open Bank Data](https://data.worldbank.org)
+* [Quandl](https://data.nasdaq.com/search)
+* [DataHub](https://datahub.io/collections)
 
 ## Healthcare
 * [Kaggle Healthcare repository](https://www.kaggle.com/tags/healthcare)
