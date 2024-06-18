@@ -2,5 +2,5 @@ joblib==1.2.0
 numpy==1.22.0
 pandas==1.1.0
 pandas-profiling==2.8.0
-scikit-learn==1.0.1
+scikit-learn==1.5.0
 streamlit==1.30.0
